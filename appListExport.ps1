@@ -1,0 +1,1 @@
+winget export C:\Users\kaie\repository\myWinEnv\mainPcAppList.json | Out-File -Encoding UTF8 C:\Users\kaie\repository\myWinEnv\warning.log
