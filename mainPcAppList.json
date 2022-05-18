@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-04-09T09:26:21.976-00:00",
+	"CreationDate" : "2022-05-18T16:18:47.361-00:00",
 	"Sources" : 
 	[
 		{
@@ -11,6 +11,12 @@
 				},
 				{
 					"PackageIdentifier" : "DMM.GamePlayer"
+				},
+				{
+					"PackageIdentifier" : "Lexikos.AutoHotkey"
+				},
+				{
+					"PackageIdentifier" : "BraveSoftware.BraveBrowser"
 				},
 				{
 					"PackageIdentifier" : "DeepL.DeepL"
@@ -31,10 +37,16 @@
 					"PackageIdentifier" : "Microsoft.Edge"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.PowerShell"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal"
 				},
 				{
 					"PackageIdentifier" : "Mozilla.Firefox"
+				},
+				{
+					"PackageIdentifier" : "OBSProject.OBSStudio"
 				},
 				{
 					"PackageIdentifier" : "QNAP.QfinderPro"
@@ -46,13 +58,13 @@
 					"PackageIdentifier" : "Spotify.Spotify"
 				},
 				{
+					"PackageIdentifier" : "Valve.Steam"
+				},
+				{
 					"PackageIdentifier" : "SlackTechnologies.Slack"
 				},
 				{
-					"PackageIdentifier" : "Amazon.SAM-CLI"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.dotnetRuntime.5-x64"
+					"PackageIdentifier" : "Microsoft.VC++2010Redist-x64"
 				},
 				{
 					"PackageIdentifier" : "Python.Python.3"
@@ -70,10 +82,16 @@
 					"PackageIdentifier" : "Google.Chrome"
 				},
 				{
+					"PackageIdentifier" : "Amazon.AWSCLI"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
 					"PackageIdentifier" : "Google.ChromeRemoteDesktop"
+				},
+				{
+					"PackageIdentifier" : "Amazon.SAM-CLI"
 				},
 				{
 					"PackageIdentifier" : "VideoLAN.VLC"
@@ -82,10 +100,13 @@
 					"PackageIdentifier" : "Nvidia.GeForceExperience"
 				},
 				{
-					"PackageIdentifier" : "Amazon.AWSCLI"
+					"PackageIdentifier" : "VideoLAN.VLC"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.dotnetRuntime.3-x64"
+					"PackageIdentifier" : "ParadoxInteractive.ParadoxLauncher"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2010Redist-x86"
 				}
 			],
 			"SourceDetails" : 
