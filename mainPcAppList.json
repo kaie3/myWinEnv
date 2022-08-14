@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-08-04T02:49:21.207-00:00",
+	"CreationDate" : "2022-08-15T04:02:16.081-00:00",
 	"Sources" : 
 	[
 		{
@@ -17,6 +17,9 @@
 				},
 				{
 					"PackageIdentifier" : "BraveSoftware.BraveBrowser"
+				},
+				{
+					"PackageIdentifier" : "CrystalDewWorld.CrystalDiskInfo.ShizukuEdition"
 				},
 				{
 					"PackageIdentifier" : "Discord.Discord"
@@ -61,13 +64,13 @@
 					"PackageIdentifier" : "SlackTechnologies.Slack"
 				},
 				{
-					"PackageIdentifier" : "Amazon.AWSCLI"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VC++2010Redist-x64"
 				},
 				{
 					"PackageIdentifier" : "Google.ChromeRemoteDesktop"
+				},
+				{
+					"PackageIdentifier" : "Python.Python.3"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.5"
@@ -83,6 +86,9 @@
 				},
 				{
 					"PackageIdentifier" : "Telegram.TelegramDesktop"
+				},
+				{
+					"PackageIdentifier" : "Amazon.AWSCLI"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
@@ -101,9 +107,6 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VC++2010Redist-x86"
-				},
-				{
-					"PackageIdentifier" : "Python.Python.3"
 				}
 			],
 			"SourceDetails" : 
