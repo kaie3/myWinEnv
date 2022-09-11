@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-08-15T04:02:16.081-00:00",
+	"CreationDate" : "2022-09-12T03:31:23.841-00:00",
 	"Sources" : 
 	[
 		{
@@ -67,22 +67,13 @@
 					"PackageIdentifier" : "Microsoft.VC++2010Redist-x64"
 				},
 				{
-					"PackageIdentifier" : "Google.ChromeRemoteDesktop"
-				},
-				{
-					"PackageIdentifier" : "Python.Python.3"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.5"
-				},
-				{
 					"PackageIdentifier" : "7zip.7zip"
 				},
 				{
 					"PackageIdentifier" : "Google.JapaneseIME"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
+					"PackageIdentifier" : "Amazon.SAM-CLI"
 				},
 				{
 					"PackageIdentifier" : "Telegram.TelegramDesktop"
@@ -94,19 +85,19 @@
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
+					"PackageIdentifier" : "Google.ChromeRemoteDesktop"
+				},
+				{
 					"PackageIdentifier" : "Nvidia.GeForceExperience"
-				},
-				{
-					"PackageIdentifier" : "Google.Chrome"
-				},
-				{
-					"PackageIdentifier" : "Amazon.SAM-CLI"
 				},
 				{
 					"PackageIdentifier" : "VideoLAN.VLC"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VC++2010Redist-x86"
+				},
+				{
+					"PackageIdentifier" : "Google.Chrome"
 				}
 			],
 			"SourceDetails" : 
