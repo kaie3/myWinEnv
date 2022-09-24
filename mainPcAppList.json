@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-09-12T03:31:23.841-00:00",
+	"CreationDate" : "2022-09-24T11:10:59.554-00:00",
 	"Sources" : 
 	[
 		{
@@ -64,6 +64,9 @@
 					"PackageIdentifier" : "SlackTechnologies.Slack"
 				},
 				{
+					"PackageIdentifier" : "Amazon.AWSCLI"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VC++2010Redist-x64"
 				},
 				{
@@ -79,13 +82,13 @@
 					"PackageIdentifier" : "Telegram.TelegramDesktop"
 				},
 				{
-					"PackageIdentifier" : "Amazon.AWSCLI"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
 					"PackageIdentifier" : "Google.ChromeRemoteDesktop"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
 				},
 				{
 					"PackageIdentifier" : "Nvidia.GeForceExperience"
