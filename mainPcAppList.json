@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-09-24T11:10:59.554-00:00",
+	"CreationDate" : "2022-11-02T18:27:47.716-00:00",
 	"Sources" : 
 	[
 		{
@@ -16,7 +16,7 @@
 					"PackageIdentifier" : "Lexikos.AutoHotkey"
 				},
 				{
-					"PackageIdentifier" : "BraveSoftware.BraveBrowser"
+					"PackageIdentifier" : "Brave.Brave"
 				},
 				{
 					"PackageIdentifier" : "CrystalDewWorld.CrystalDiskInfo.ShizukuEdition"
@@ -64,10 +64,10 @@
 					"PackageIdentifier" : "SlackTechnologies.Slack"
 				},
 				{
-					"PackageIdentifier" : "Amazon.AWSCLI"
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2010Redist-x64"
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.5"
 				},
 				{
 					"PackageIdentifier" : "7zip.7zip"
@@ -76,7 +76,13 @@
 					"PackageIdentifier" : "Google.JapaneseIME"
 				},
 				{
-					"PackageIdentifier" : "Amazon.SAM-CLI"
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
+				},
+				{
+					"PackageIdentifier" : "Amazon.AWSCLI"
+				},
+				{
+					"PackageIdentifier" : "Python.Python.3.10"
 				},
 				{
 					"PackageIdentifier" : "Telegram.TelegramDesktop"
@@ -85,22 +91,22 @@
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
-					"PackageIdentifier" : "Google.ChromeRemoteDesktop"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
-				},
-				{
 					"PackageIdentifier" : "Nvidia.GeForceExperience"
 				},
 				{
 					"PackageIdentifier" : "VideoLAN.VLC"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2010Redist-x86"
+					"PackageIdentifier" : "Amazon.SAM-CLI"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome"
+				},
+				{
+					"PackageIdentifier" : "Google.ChromeRemoteDesktop"
 				}
 			],
 			"SourceDetails" : 
@@ -127,5 +133,5 @@
 			}
 		}
 	],
-	"WinGetVersion" : "1.3.2091"
+	"WinGetVersion" : "1.3.2691"
 }
