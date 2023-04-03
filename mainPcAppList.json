@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-11-12T17:23:15.191-00:00",
+	"CreationDate" : "2023-04-04T03:13:13.334-00:00",
 	"Sources" : 
 	[
 		{
@@ -55,6 +55,18 @@
 					"PackageIdentifier" : "Spotify.Spotify"
 				},
 				{
+					"PackageIdentifier" : "TeraTermProject.teraterm"
+				},
+				{
+					"PackageIdentifier" : "hadolint.hadolint"
+				},
+				{
+					"PackageIdentifier" : "DeepL.DeepL"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
 				},
 				{
@@ -67,34 +79,31 @@
 					"PackageIdentifier" : "Google.JapaneseIME"
 				},
 				{
-					"PackageIdentifier" : "Google.ChromeRemoteDesktop"
+					"PackageIdentifier" : "Amazon.AWSCLI"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
+					"PackageIdentifier" : "Google.Chrome"
 				},
 				{
 					"PackageIdentifier" : "Telegram.TelegramDesktop"
 				},
 				{
+					"PackageIdentifier" : "Amazon.SAM-CLI"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
-					"PackageIdentifier" : "Amazon.AWSCLI"
-				},
-				{
-					"PackageIdentifier" : "Nvidia.GeForceExperience"
+					"PackageIdentifier" : "SomePythonThings.WingetUIStore"
 				},
 				{
 					"PackageIdentifier" : "VideoLAN.VLC"
 				},
 				{
-					"PackageIdentifier" : "Amazon.SAM-CLI"
+					"PackageIdentifier" : "Nvidia.GeForceExperience"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86"
-				},
-				{
-					"PackageIdentifier" : "Google.Chrome"
 				}
 			],
 			"SourceDetails" : 
@@ -121,5 +130,5 @@
 			}
 		}
 	],
-	"WinGetVersion" : "1.3.2691"
+	"WinGetVersion" : "1.4.10173"
 }
